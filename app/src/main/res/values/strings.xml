@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Whack-A-Mole</string>
+    <string name="time_rem">Time Remaining: 30</string>
+    <string name="score">Score: 0</string>
+    <string name="reset">Reset Game</string>
+    <string name="exit">Exit Game</string>
+    <string name="selectSize">Select Game Size: </string>
+    <string name="applySettings">Apply New Game Settings</string>
+    <string name="selectMax">Select Max # of Moles: </string>
+</resources>
